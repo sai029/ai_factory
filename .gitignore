@@ -1,0 +1,5 @@
+.harness-work/
+projects/
+.env
+*.local.md
+CLAUDE.local.md
